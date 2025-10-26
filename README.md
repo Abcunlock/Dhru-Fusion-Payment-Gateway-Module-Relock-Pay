@@ -1,7 +1,7 @@
 # PayRelock API Documentation
 
 ## Overview
-PayRelock is a crypto payment gateway API similar to PayerOne.
+PayRelock is a crypto payment gateway API.
 
 ## Base URL
 - **Production**: `https://pay.relock.net/api/v1`
